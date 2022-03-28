@@ -5,7 +5,7 @@ This project was requested by aliihsanasl.  I saw it as a great opportunity to l
 User plugin for PS Vita.  Tested on vita firmware 3.60 and Henkaku Enso.  Also supports PSTV.
 
 # Installation Instructions
-1) Download zip from latest release  
+1) Download AutosaveCheckpointCreator.suprx from latest release  
 2) Copy AutosaveCheckpointCreator.suprx to ur0:/tai folder on ps vita  
 3) Put "ur0:/tai/AutosaveCheckpointCreator.suprx" (without quotes) under main section in Config.txt file  
 4) Reboot vita  
